@@ -22,3 +22,15 @@
   wget https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh
   chmod +x install.sh && ./install.sh
   ```
+
+- https://github.com/fscarmen/sing-box
+
+  ```bash
+  bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/sing-box/main/sing-box.sh)
+  ```
+
+- https://github.com/233boy/sing-box
+
+  ```
+  bash <(wget -qO- -o- https://github.com/233boy/sing-box/raw/main/install.sh)
+  ```
